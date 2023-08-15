@@ -57,10 +57,12 @@ body {
     min-height: 100vh;
 
     display: flex;
-    justify-content: center;
+    justify-content: center;   
     align-items: center;
 
     font: 400 1rem sans-serif;
     background-image: url(image/shopbanner.png);
     background-size: cover;
 }
+
+

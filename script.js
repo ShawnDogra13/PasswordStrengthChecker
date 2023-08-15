@@ -5,7 +5,7 @@ const progressBar = document.querySelector('.bar');
 
 password.onkeyup = () => {
     console.log(password.value);
-    checkPasswordStrength(password.value);
+    checkPasswordStrength(password.value); 
 
 }
 
